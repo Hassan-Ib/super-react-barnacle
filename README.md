@@ -1,1 +1,1 @@
-# REACT PROJECT WITH STYLED COMPONENT BY https://johnsmilga.COM (JOHN SMIGA)
+# Responsive React project with styled-components by (JOHN SMIGA)[https://johnsmilga.com]
